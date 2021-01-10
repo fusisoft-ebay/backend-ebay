@@ -7,3 +7,4 @@ cansandra
 Aroura
 Elastic cache
 Oracle
+Memcached
