@@ -1,2 +1,3 @@
-yum install httpd -y
-systemctl restart httpd
+sudo yum install httpd -y
+sudo systemctl restart httpd
+sudo systemctl enable httpd
